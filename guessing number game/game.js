@@ -28,6 +28,6 @@ else {
 //one small improvement? This code is duplicated //
 //We can get it out of the way at the top. //
 //Guess is now a number, rather than a string //
-//Now we work on a version where we don't need to refresh the page. //
+//Now we work on a version where we don't need to refresh the page that are called loops//
 //these will be called LOOPS// 
 
